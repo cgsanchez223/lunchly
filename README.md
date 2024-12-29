@@ -1,0 +1,8 @@
+- Unit 37.3 Object Oriented Design Patterns
+- Lunchly Assignment
+    - createdb lunchly
+    - npm i
+    - nodemon start
+    - app will run on a localhost
+- Lunchly is a customer database
+- You can add customers and give thme reservation times
